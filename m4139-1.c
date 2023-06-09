@@ -4,7 +4,7 @@ main()
 {
 	int a[100];
 	int *p[100];
-	int c,d;
+	int c;
 
 	
 	int i,n;
